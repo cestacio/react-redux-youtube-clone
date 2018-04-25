@@ -1,6 +1,6 @@
 # A Simple Youtube Clone
 
-Built with React, Redux and the YouTube API.
+An app that allows users to search for YouTube videos. Built with React, Redux and the YouTube API.
 
 ### Getting Started
 
